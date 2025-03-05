@@ -10,3 +10,9 @@ Pasos para ejecutar proyecto:
 
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla
+
+## Comandos de git
+
+1. $ git config --global user.name "[name]"
+2. $ git config --global user.email "[email address]"
+3. $ git config --global color.ui auto
